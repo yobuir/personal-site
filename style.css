@@ -118,12 +118,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   display: flex;
   justify-content: center;
-  align-items: center;
-  background: rgba(255, 255, 255, 0.1);
+  align-items: center; 
   color: #fff;
   line-height: 1;
-  margin-right: 8px;
-  border-radius: 50%;
+  margin-right: 8px; 
   width: 40px;
   height: 40px;
 }
