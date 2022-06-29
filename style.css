@@ -31,7 +31,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("IMG-20190409-WA0033.jp") top right no-repeat;
+  background: #040404 url("") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
